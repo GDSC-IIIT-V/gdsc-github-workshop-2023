@@ -3,11 +3,20 @@
     {
       "name": "Ayush Khandelwal",
       "batch": 2021,
-      "picture_url": "https://i.ibb.co/qk7K4WF/profile-picture.jpg",
+      "picture_url": "https://i.imgur.com/zmWvcO1.jpg",
       "twitter": "https://twitter.com/Ayushtwt",
       "github": "https://github.com/AyushonGithub",
       "linkedin": "https://www.linkedin.com/in/ayushkhandelwal28/",
       "quote": "Always Learning"
+    },
+    {
+      "name": "Aryan Amit Gupta",
+      "batch": 2021,
+      "picture_url": "https://i.imgur.com/ukkIKBc.jpg",
+      "twitter": "https://twitter.com/Aryanonyahoo",
+      "github": "https://github.com/aryanargupta",
+      "linkedin": "https://www.linkedin.com/in/aryan-amit-gupta/",
+      "quote": "Failures make the taste of Success sweet"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "name": "sakshi",
+        "batch": 2023,
+        "picture_url": "https://imgur.com/PkLKMcV",
+        "twitter": "https://twitter.com",
+        "github": "https://github.com/Ayush-Khandelwal28",
+        "linkedin": "https://www.linkedin.com/in/ayushkhandelwal28/",
+        "quote": "Always Learning"
+      },
+      {
+        "name": "Aryan Amit Gupta",
+        "batch": 2021,
+        "picture_url": "https://i.imgur.com/ukkIKBc.jpg",
+        "twitter": "https://twitter.com/Aryanonyahoo",
+        "github": "https://github.com/aryanargupta",
+        "linkedin": "https://www.linkedin.com/in/aryan-amit-gupta/",
+        "quote": "Failures make the taste of Success sweet"
+      }
+    ]
+  }
+  

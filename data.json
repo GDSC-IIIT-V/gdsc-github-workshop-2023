@@ -9,7 +9,7 @@
       "linkedin": "https://www.linkedin.com/in/ayushkhandelwal28/",
       "quote": "Always Learning"
     },
-    {
+    { 
       "name": "Aryan Amit Gupta",
       "batch": 2021,
       "picture_url": "https://i.imgur.com/ukkIKBc.jpg",
@@ -21,10 +21,10 @@
     {
       "name": "Kuldip Solanki",
       "batch": 2023,
-      "picture_url": "https://imgur.com/a/pN9opZ6.jpg",
+      "picture_url": "https://imgur.com/a/1Puc7qU.jpg",
       "twitter": "",
-      "github": "",
-      "linkedin": "",
+      "github": "https://github.com/kuldipsolanki46",
+      "linkedin": "https://www.linkedin.com/in/solanki-kuldipkumar-kishorbhai-06315b290/",
       "quote": "Always Learning"
     }
   ]

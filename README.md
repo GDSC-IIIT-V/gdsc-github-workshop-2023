@@ -19,13 +19,13 @@ Follow the instructions in order:
 
 ```
     {
-      "name": {YOUR_NAME},
-      "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
-      "picture_url": {PICTURE_CDN_URL},
-      "twitter": {TWITTER_HANDLE_LINK},
-      "github": {YOUR_GITHUB_PROFILE_LINK},
-      "linkedin": {YOUR_LINKEDIN_PROFILE_LINK},
-      "quote": {QUOTE_WHICH_DEFINES_YOU}
+      "name": Padmnabh Tewari,
+      "batch": 2023,
+      "picture_url": "https://imgur.com/a/QMXGjD3" ,
+      "twitter": "https://x.com/PadmnabhTewari?t=wZ_7xpHgrJ9zbJMy-U6U4Q&s=09",
+      "github": "https://github.com/PadmnabhTewari/",
+      "linkedin": "",
+      "quote": "WORK HARD"
     }
 ```
 6. To get your `PICTURE_CDN_URL` head over to https://imgur.com/ and upload one of your nice looking image 😎 and get's it's url. 

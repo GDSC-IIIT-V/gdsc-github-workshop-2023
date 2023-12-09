@@ -30,11 +30,10 @@
     {
      "name": "Manveer Anand",
       "batch": 2023,
-      "picture_url": "https://imgur.com/31Z5OU6",
-      "twitter": "",
-      "github": "",
-      "linkedin": "",
-      "quote": "my quote"
+      "picture_url": "https://i.imgur.com/31Z5OU6.jpg",
+      "github": "https://github.com/ManveerAnand",
+      "linkedin": "https://www.linkedin.com/in/manveeranand",
+      "quote": "be the root user of your life"
     }
   ]
 }

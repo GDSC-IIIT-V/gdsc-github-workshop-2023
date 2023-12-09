@@ -17,6 +17,15 @@
       "github": "https://github.com/aryanargupta",
       "linkedin": "https://www.linkedin.com/in/aryan-amit-gupta/",
       "quote": "Failures make the taste of Success sweet"
+    },
+    {
+      "name": "Devesh Sawant",
+      "batch" : 2023,
+      "picture_url": "https://imgur.com/a/9SUXkZ2",
+      "twitter": "https://twitter.com/deveshsawant05",
+      "github": "https://github.com/deveshsawant05",
+      "linkedin": "https://www.linkedin.com/in/devesh-sawant-086872293/",
+      "quote":"Honesty is the best policy"
     }
   ]
 }

@@ -8,10 +8,10 @@ Follow the instructions in order:
 1. Fork this repository.
 
 2. Clone your fork, using
-    `git clone https://github.com/{GITHUB_USERNAME}/github-workshop-jan-2022.git`
+    `git clone https://github.com/{GITHUB_USERNAME}/gdsc-github-workshop-2023.git`
 
-3. Change Directory to `github-workshop-jan-2022` , using
-    `cd github-workshop-jan-2022`
+3. Change Directory to `gdsc-github-workshop-2023` , using
+    `cd gdsc-github-workshop-2023`
 
 4. Open the current directory in your editor.
 

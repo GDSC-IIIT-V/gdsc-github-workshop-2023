@@ -50,7 +50,8 @@ content.appendChild(SocialDiv);
 card.appendChild(content);
 (async () => {
   console.log("hello");
-  const dataForCards = await (await fetch('https://iiitv.github.io/github-workshop-jan-2022/data.json')).json();
+  const dataForCards = await (await fetch('https://gdsc-iiitv-github-workshop-dec-2023.netlify.app/data.json')).json();
+  console.log(dataForCards);
   let count = 0;
   Github.setAttribute("target", "_blank");
   Linkedin.setAttribute("target", "_blank");

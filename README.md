@@ -28,7 +28,7 @@ Follow the instructions in order:
       "quote": {QUOTE_WHICH_DEFINES_YOU}
     }
 ```
-6. To get your `PICTURE_CDN_URL` head over to https://imgbb.com/ and upload one of your nice looking image 😎 and get's it's url. 
+6. To get your `PICTURE_CDN_URL` head over to https://imgur.com/ and upload one of your nice looking image 😎 and get's it's url. 
 
 7. Now add the above filled block to the `data` array in `data.json` file
    

@@ -34,6 +34,16 @@
       "github": "https://github.com/ManveerAnand",
       "linkedin": "https://www.linkedin.com/in/manveeranand",
       "quote": "be the root user of your life"
+    },
+    {
+      "name": "Abhijeet",
+      "batch": 2023,
+      "picture_url": "https://i.imgur.com/cCnPE95.jpg",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": "my quote"
+
     }
   ]
 }

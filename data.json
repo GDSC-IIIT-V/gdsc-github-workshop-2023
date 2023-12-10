@@ -19,15 +19,6 @@
       "quote": "Failures make the taste of Success sweet"
     },
     {
-      "name": "Gungun Agarwal",
-      "batch": 2023,
-      "picture_url": "https://imgur.com/a/l4hyk7x",
-      "twitter": "",
-      "github": "",
-      "linkedin": "",
-      "quote": ""
-    },
-    {
       "name": "Devyash Saini",
       "batch": 2023,
       "picture_url": "https://i.imgur.com/XA6AASl.jpeg",
@@ -35,6 +26,15 @@
       "github": "https://github.com/TheDevyashSaini",
       "linkedin": "https://www.linkedin.com/in/TheDevyashSaini",
       "quote": "I don't believe in obstacles, only in opportunities..."
+    },
+    {
+      "name": "Gungun Agarwal",
+      "batch": 2023,
+      "picture_url": "https://imgur.com/a/l4hyk7x",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": ""
     },
     {
       "name": "Mehul Kumar",
@@ -62,6 +62,15 @@
       "github": "",
       "linkedin": "",
       "quote": "my quote"
+    },
+    {
+      "name": "Vinay Saini",
+      "batch": 2023,
+      "picture_url": "https://i.imgur.com/DXsW8f9_d.webp?maxwidth=760&fidelity=grand",
+      "twitter": "https://twitter.com/VinayJadam62969",
+      "github": "https://github.com/Vinay-003",
+      "linkedin": "https://www.linkedin.com/in/vinay-saini-79315a2a3",
+      "quote": "Give your best and leave the rest "
     }
   ]
 }

@@ -19,7 +19,15 @@
       "quote": "Failures make the taste of Success sweet"
     },
     {
-
+      "name": "Gungun Agarwal",
+      "batch": 2023,
+      "picture_url": "https://imgur.com/a/l4hyk7x",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": ""
+    },
+    {
       "name": "Devyash Saini",
       "batch": 2023,
       "picture_url": "https://i.imgur.com/XA6AASl.jpeg",
@@ -38,7 +46,7 @@
       "quote": "OS Lead hu mai"
     },
     {
-     "name": "Manveer Anand",
+      "name": "Manveer Anand",
       "batch": 2023,
       "picture_url": "https://imgur.com/31Z5OU6",
       "twitter": "",
@@ -54,7 +62,6 @@
       "github": "",
       "linkedin": "",
       "quote": "my quote"
-
     }
   ]
 }

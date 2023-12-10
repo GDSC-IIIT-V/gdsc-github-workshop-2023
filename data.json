@@ -19,7 +19,6 @@
       "quote": "Failures make the taste of Success sweet"
     },
     {
-
       "name": "Pawan Meena",
       "batch": 2023,
       "picture_url": "https://imgur.com/a/mgAwH1Y.jpg",
@@ -27,7 +26,26 @@
       "github": "https://github.com/pawanmna",
       "linkedin": "https://www.linkedin.com/in/pawaniiitv/",
       "quote": "talk is cheap show me the code."      
-    },{
+    },
+    {
+      "name": "Gungun Agarwal",
+      "batch": 2023,
+      "picture_url": "https://imgur.com/a/l4hyk7x",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": ""
+    },
+    {
+      "name": "Devyash Saini",
+      "batch": 2023,
+      "picture_url": "https://i.imgur.com/XA6AASl.jpeg",
+      "twitter": "https://twitter.com/TheDevyashSaini",
+      "github": "https://github.com/TheDevyashSaini",
+      "linkedin": "https://www.linkedin.com/in/TheDevyashSaini",
+      "quote": "I don't believe in obstacles, only in opportunities..."
+    },
+    {
       "name": "Mehul Kumar",
       "batch": 2021,
       "picture_url": "https://imgur.com/a/3kSJq1S",
@@ -37,7 +55,7 @@
       "quote": "OS Lead hu mai"
     } ,
     {
-     "name": "Manveer Anand",
+      "name": "Manveer Anand",
       "batch": 2023,
       "picture_url": "https://imgur.com/31Z5OU6",
       "twitter": "",
